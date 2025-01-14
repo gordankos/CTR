@@ -1,0 +1,7 @@
+Interpreter: Python 3.11.9 (September 2023.)
+
+Python packages required:
+
+    PySide6         6.8.1.1
+    PyQtDarkTheme   2.1.0
+    PyQtGraph       0.13.7

@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="">
+    <file>Light theme/logo.png</file>
+    <file>Light theme/add.png</file>
+    <file>Light theme/left_arrow.png</file>
+    <file>Light theme/right_arrow.png</file>
+    <file>Light theme/open_file.png</file>
+    <file>Light theme/save.png</file>
+    <file>Light theme/redo.png</file>
+    <file>Light theme/undo.png</file>
+	<file>Light theme/catalogue.png</file>
+	<file>Light theme/dashboard.png</file>
+	<file>Light theme/recipe.png</file>
+	<file>Light theme/test_button.png</file>
+	<file>Light theme/cancel.png</file>
+	<file>Light theme/star_empty.png</file>
+	<file>Light theme/star_full.png</file>
+	<file>Light theme/calendar.png</file>
+  </qresource>
+  <qresource prefix="">
+    <file>Dark theme/logo_dark.png</file>
+    <file>Dark theme/add_dark.png</file>
+	<file>Dark theme/left_arrow_dark.png</file>
+	<file>Dark theme/right_arrow_dark.png</file>
+	<file>Dark theme/open_file_dark.png</file>
+	<file>Dark theme/save_dark.png</file>
+	<file>Dark theme/redo_dark.png</file>
+	<file>Dark theme/undo_dark.png</file>
+	<file>Dark theme/catalogue_dark.png</file>
+	<file>Dark theme/dashboard_dark.png</file>
+	<file>Dark theme/recipe_dark.png</file>
+	<file>Dark theme/cancel_dark.png</file>
+	<file>Dark theme/star_empty_dark.png</file>
+	<file>Dark theme/star_full_dark.png</file>
+	<file>Dark theme/calendar_dark.png</file>
+  </qresource>
+</RCC>
